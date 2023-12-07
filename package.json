@@ -1,0 +1,16 @@
+{
+    "name": "react-codemirror-error",
+    "version": "1.0.0",
+    "type": "module",
+    "dependencies": {
+        "@codemirror/lang-javascript": "^6.2.1",
+        "@uiw/react-codemirror": "^4.21.21",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0"
+    },
+    "devDependencies": {
+        "@types/react": "^18.2.42",
+        "@types/react-dom": "^18.2.17",
+        "typescript": "^5.3.3"
+    }
+}
